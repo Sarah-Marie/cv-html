@@ -1,0 +1,32 @@
+table { 
+    width: 100%; 
+    color: #6495ed;
+}
+.italic {
+    font-weight: italic;
+}
+#techtable {
+    color: blue;
+}
+.bold {
+    font-weight: bold;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#techhead {
+    font-weight: bold;
+}
+
+#careergoal {
+    font-weight: bold;
+}
+
+#workexp {
+    font-weight: bold;
+}
+
+#education {
+    font-weight: bold;
+}

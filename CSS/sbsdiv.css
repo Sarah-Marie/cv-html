@@ -1,0 +1,6 @@
+#left-div, #rt-div {
+
+    display: inline-block;
+    width: 29%;
+    vertical-align: top;
+}
